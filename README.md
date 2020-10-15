@@ -18,19 +18,19 @@ For each case, a line starting with "Case #x: " followed by the size of the mini
 
 ## Examples
 
-<table><tbody><tr><td valign="top">
-Case 1:
+<table><tbody><tr>
+<td valign="top"><pre>Case 1:
 
 1
-</td><td valign="top">
-Case 2:
+</pre></td>
+<td valign="top"><pre>Case 2:
 
 6
-</td><td valign="top">
-Case 3:
+</pre></td>
+<td valign="top"><pre>Case 3:
 
 3
-</td>
+</pre></td>
 </tr></tbody></table>
 
 In Case 1, we need a card with 1.
