@@ -1,0 +1,26 @@
+{
+  "name": "board-games-kata",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start --max_old_space_size=4096 start",
+    "build": "react-scripts build --max_old_space_size=4096 start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+build/
+node_modules/
+outputs/
+.vercel
+yarn-error.log
+
+.DS_Store
