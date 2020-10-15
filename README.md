@@ -18,33 +18,21 @@ For each case, a line starting with "Case #x: " followed by the size of the mini
 
 ## Examples
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <pre>
-                    Case 1:
+<table><tbody><tr>
+<td><pre>
+Case 1:
 
-                    1
-                </pre>
-            </td>
-            <td>
-                <pre>
-                    Case 2:
+1
+</pre></td><td><pre>
+Case 2:
 
-                    6
-                </pre>
-            </td>
-            <td>
-                <pre>
-                    Case 3:
+6
+</pre></td><td><pre>
+Case 3:
 
-                    3
-                </pre>
-            </td>
-        </tr>
-    </tbody>
-</table>
+3
+</pre></td>
+</tr></tbody></table>
 
 In Case 1, we need a card with 1.
 In Case 2, we can count up to 6 with only 3 cards, for example 1, 2 and 3.
